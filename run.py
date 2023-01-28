@@ -22,7 +22,7 @@ if __name__ == "__main__":
     model = model.to(device)
     model.eval()
 
-    img = Image.open("./VAIPE_P_0_0.jpg")
+    img = Image.open("./V27.jfif")
     np_img = np.array(img)
     outputs = segmentation.segmented_pills(np_img)
     boxes = outputs["instances"].to("cpu").pred_boxes
