@@ -1,7 +1,8 @@
 # Medicine-Pill-Image-Recognition
-#### How to run
-
+### How to run
 ```
 python run.py 
 ```
-Please contact vinhbn28@gmail.com for data, label or pretrained weights!
+## Contact
+If you have any questions, feel free to E-mail me via: `vinhbn28@gmail.com`
+
