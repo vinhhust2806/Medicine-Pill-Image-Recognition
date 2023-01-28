@@ -1,0 +1,2 @@
+from nets.ocr.craft.detector import CRAFT_DETECTOR
+from nets.segmentation.segmentation_detector import Segmentation_Detectron2
