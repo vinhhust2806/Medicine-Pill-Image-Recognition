@@ -1,4 +1,4 @@
-# Pill-Recognize-Using-Detectron
+# Medicine-Pill-Image-Recognition
 #### How to run
 
 ```
